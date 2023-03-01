@@ -4,9 +4,9 @@ A web service that counts CPU usage every 5 seconds and the average value for 1 
 The amcharts library is used to draw graphics.
 ### To run, you need to download the used libraries from the requirements file:
 ```rb
-# pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 And, being in the main directory, execute:
 ```rb
-# python cpu_load.py
+python cpu_load.py
 ```
